@@ -3,4 +3,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Ochieng&layout=compact)<br><br><br>
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aaron-Ochieng)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ochiengaoron@outlook.com)](https://github.com/anuraghazra/github-readme-stats)
