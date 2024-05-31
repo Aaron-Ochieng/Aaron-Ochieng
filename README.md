@@ -1,20 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Aaron-Ochieng" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
-![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-Ochieng&theme=dark&show_icons=true)<br><br><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Ochieng&layout=compact)<br><br><br>
-
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aaron-Ochieng&layout=donut-vertical&langs_count=8&card_width=320" />
+</a><br>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aaron_Ochieng)](https://github.com/anuraghazra/github-readme-stats)
