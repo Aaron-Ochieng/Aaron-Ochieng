@@ -1,3 +1,5 @@
+![Codewars](https://github.r2v.ch/codewars?user=aaron_ochieng&stroke=%23BB432C)
+
 ![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-Ochieng&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Ochieng&layout=donut-vertical)
